@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="bg-gray-900 text-white py-8">
       <div className="max-w-6xl mx-auto px-4 flex flex-col md:flex-row justify-between items-center">
         <div className="text-center md:text-left mb-4 md:mb-0">
-          <h2 className="text-xl font-semibold">Your Web Studio</h2>
+          <h2 className="text-xl font-semibold">Elevate Web Co.</h2>
           <p className="text-sm text-gray-400">Helping small businesses build their web presence.</p>
         </div>
         
@@ -22,7 +22,7 @@ const Footer = () => {
           </a>
         </div>
         
-        <p className="text-sm text-gray-500">&copy; {new Date().getFullYear()} Your Web Studio. All rights reserved.</p>
+        <p className="text-sm text-gray-500">&copy; {new Date().getFullYear()} Elevate Web Co. All rights reserved.</p>
       </div>
     </footer>
   );
