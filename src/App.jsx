@@ -5,6 +5,7 @@ import Pricing from './components/Pricing';
 import Testimonials from './components/Testimonials';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import AddOns from './components/AddOns';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Services />
       <Pricing />
       <Testimonials />
+      <AddOns />
       <Contact />
       <Footer />
     </div>
