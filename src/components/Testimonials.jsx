@@ -1,15 +1,15 @@
-import React from 'react';
+import React from "react";
 
 const testimonials = [
   {
     quote:
-      'We just needed something clean and easy that made us look legit. Bradley nailed it.',
-    author: 'Jane Doe, Local Bakery Owner',
+      "We just needed something clean and easy that made us look legit. Bradley nailed it.",
+    author: "Jane Doe, Local Bakery Owner",
   },
   {
     quote:
-      'It’s not just a website — it handles my orders and saves me hours every week.',
-    author: 'John Smith, Freelance Photographer',
+      "It’s not just a website — it handles my orders and saves me hours every week.",
+    author: "John Smith, Freelance Photographer",
   },
 ];
 
